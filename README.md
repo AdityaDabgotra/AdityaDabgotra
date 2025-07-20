@@ -1,116 +1,64 @@
-<h1 align="center">Hi 👋, I'm Aditya Dabgotra</h1>
-<h3 align="center">A passionate Tech Enthusiast & DSA Expert</h3>
+<h1 align="center">🚀 Hi, I'm Aditya Dabgotra</h1>
+<h3 align="center">⚡ Tech Enthusiast & DSA Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Structures+%26+Algorithms+in+C+%26+C%2B%2B;MERN+Stack+Developer;SQL+and+Python+Database+Expert;Cyber+Security+Learner;Open+Source+Contributor;Lifelong+Learner🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=26&duration=4000&pause=500&color=00F0FF&center=true&vCenter=true&width=500&lines=Data+Structures+%26+Algorithms+Expert;MERN+Stack+Architect;Cyber+Security+Researcher;Database+Systems+Specialist;Innovative+Problem+Solver" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <img src="https://github.com/AdityaDabgotra/AdityaDabgotra/assets/74038190/2c6a5a3d-5c14-4a4f-9d5e-5a3d5a3f4d3f" width="800" />
+</div>
 
 ---
 
-## 🚀 About Me
+## 🔮 Tech Profile
 
-- 🌱 Currently advancing my skills in **Cyber Security**
-- 👨🏻‍💻 Expert in **Data Structures & Algorithms (C/C++)**
-- ⚡ Full Stack **MERN** Developer
-- 🗃 Proficient in databases: **SQL** and **Python**
-- 🎯 Always exploring new technologies and security practices
-- 🏆 Consistent achiever in coding challenges & hackathons
+```mermaid
+graph LR
+    A[Core Expertise] --> B[C/C++ DSA];
+    A --> C[MERN Stack];
+    A --> D[Database Systems];
+    A --> E[Cyber Security];
+    F[Learning Focus] --> G[Pen Testing];
+    F --> H[Cloud Security];
+    F --> I[Blockchain];
+<div align="center"> <a href="https://app.daily.dev/AdityaDabgotra"> <img src="https://api.daily.dev/devcards/8f8e8e3e0b4e4d2d8e8e3e0b4e4d2d8e.png?r=bsh" width="300" alt="Aditya Dabgotra's Dev Card"/> </a> </div>
+⚙️ Tech Stack & Tools
+🧠 Core Languages
+https://img.shields.io/badge/c-%252300599C.svg?style=for-the-badge&logo=c&logoColor=white
+https://img.shields.io/badge/c++-%252300599C.svg?style=for-the-badge&logo=c%252B%252B&logoColor=white
+https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 
----
+🌐 Web Technologies
+https://img.shields.io/badge/MongoDB-%25234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/express.js-%2523404d59.svg?style=for-the-badge&logo=express&logoColor=%252361DAFB
+https://img.shields.io/badge/react-%252320232a.svg?style=for-the-badge&logo=react&logoColor=%252361DAFB
+https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/redux-%2523593d88.svg?style=for-the-badge&logo=redux&logoColor=white
 
-## 🛠️ Tech Stack & Tools
+🔒 Security Tools
+https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white
+https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
+https://img.shields.io/badge/Metasploit-EF2D5E?style=for-the-badge
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-71C837?style=for-the-badge&logo=virustotal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+🛠️ DevOps & Tools
+https://img.shields.io/badge/github-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/docker-%25230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 
----
+📊 GitHub Analytics
+<div align="center"> <a href="https://github.com/AdityaDabgotra"> <img src="https://github-readme-stats.vercel.app/api?username=AdityaDabgotra&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaDabgotra&theme=vision-friendly-dark&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDabgotra&theme=vision-friendly-dark&hide_border=true&layout=compact" /> </a> </div>
+🏆 Achievements
+<p align="center"> <a href="https://github.com/AdityaDabgotra"> <img src="https://github-profile-trophy.vercel.app/?username=AdityaDabgotra&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" /> </a> </p><div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaDabgotra&theme=github_dark" /> </div>
+✨ Active Projects
+<!-- PROJECTS:START -->
+🔒 CyberSec Toolkit - Security utilities collection
 
-## ✨ Animated Badges
+🌐 E-Commerce MERN Platform - Full-featured shopping system
 
-<p align="center">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=AdityaDabgotra&label=PROFILE+VIEWS&style=flat-square&color=0e75b6" />
-  <img alt="Star Badge" src="https://img.shields.io/github/stars/AdityaDabgotra?style=social" />
-  <img alt="Followers" src="https://img.shields.io/github/followers/AdityaDabgotra?label=Followers&style=social" />
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60" alt="Code Gif"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="60" alt="Rocket Gif"/>
-  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="60" alt="Security Gif"/>
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="60" alt="Dev Gif"/>
-</p>
+🧠 Algorithm Visualizer - Interactive DSA learning tool
 
----
-
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaDabgotra&theme=radical&margin-w=12&no-bg=true&no-frame=true" alt="Github Trophies"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaDabgotra&show_icons=true&theme=tokyonight&hide=prs"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaDabgotra&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDabgotra&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
-
----
-
-## 🌱 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 📝 Learning penetration testing and cybersecurity tools
-2. 💻 Built scalable MERN stack web apps
-3. 🔢 Solved challenging DSA problems in C & C++
-4. 🏅 Participated and won coding competitions
-5. 🗃 Designed optimized relational databases in SQL & Python
-<!--END_SECTION:activity-->
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:adityadabgotra2004@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-dabgotra-279a0a162">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
-</p>
-
-<!--
-  Replace YOUR_TWITTER and your-portfolio.com with your actual social handle and portfolio!
--->
+<!-- PROJECTS:END -->
+🌌 Connect With Me
+<p align="center"> <a href="mailto:adityadabgotra2004@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/aditya-dabgotra-279a0a162"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/YourTwitter"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://adityadabgotra.tech"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" /> </a> </p><div align="center"> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=AdityaDabgotra&label=Profile%20Views&color=12&icon=5&pretty=true" /> </a> </div>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" /> </p> ```
