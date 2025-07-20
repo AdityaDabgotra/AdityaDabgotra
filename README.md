@@ -4,11 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=26&duration=4000&pause=500&color=00F0FF&center=true&vCenter=true&width=500&lines=Data+Structures+%26+Algorithms+Expert;MERN+Stack+Architect;Cyber+Security+Researcher;Database+Systems+Specialist;Innovative+Problem+Solver" alt="Typing SVG" />
 </p>
-
-<div align="center">
-  <img src="https://github.com/AdityaDabgotra/AdityaDabgotra/assets/74038190/2c6a5a3d-5c14-4a4f-9d5e-5a3d5a3f4d3f" width="800" />
-</div>
-
 ---
 
 ## 🔮 Tech Profile
@@ -99,12 +94,6 @@ graph LR
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
 </p>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AdityaDabgotra&label=Profile%20Views&color=12&icon=5&pretty=true" />
-  </a>
-</div>
 
 ---
 
