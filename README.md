@@ -48,9 +48,9 @@ graph LR
 
 <div align="center">
   <a href="https://github.com/AdityaDabgotra">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdityaDabgotra&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaDabgotra&theme=vision-friendly-dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDabgotra&theme=vision-friendly-dark&hide_border=true&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaDabgotra&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaDabgotra&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDabgotra&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
   </a>
 </div>
 
