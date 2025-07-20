@@ -22,6 +22,7 @@ graph LR
     F[Learning Focus] --> G[Pen Testing];
     F --> H[Cloud Security];
     F --> I[Blockchain];
+```
 <div align="center"> <a href="https://app.daily.dev/AdityaDabgotra"> <img src="https://api.daily.dev/devcards/8f8e8e3e0b4e4d2d8e8e3e0b4e4d2d8e.png?r=bsh" width="300" alt="Aditya Dabgotra's Dev Card"/> </a> </div>
 ⚙️ Tech Stack & Tools
 🧠 Core Languages
@@ -61,4 +62,4 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
 <!-- PROJECTS:END -->
 🌌 Connect With Me
 <p align="center"> <a href="mailto:adityadabgotra2004@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/aditya-dabgotra-279a0a162"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/YourTwitter"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://adityadabgotra.tech"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" /> </a> </p><div align="center"> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=AdityaDabgotra&label=Profile%20Views&color=12&icon=5&pretty=true" /> </a> </div>
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" /> </p> ```
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" /> </p>
