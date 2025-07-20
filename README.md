@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
+- 🌱 Currently advancing my skills in **Cyber Security**
 - 👨🏻‍💻 Expert in **Data Structures & Algorithms (C/C++)**
 - ⚡ Full Stack **MERN** Developer
 - 🗃 Proficient in databases: **SQL** and **Python**
 - 🎯 Always exploring new technologies and security practices
-- - 🌱 Currently advancing my skills in **Cyber Security**
 - 🏆 Consistent achiever in coding challenges & hackathons
 
 ---
@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -33,6 +33,23 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Cybersecurity-71C837?style=for-the-badge&logo=virustotal&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## ✨ Animated Badges
+
+<p align="center">
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=AdityaDabgotra&label=PROFILE+VIEWS&style=flat-square&color=0e75b6" />
+  <img alt="Star Badge" src="https://img.shields.io/github/stars/AdityaDabgotra?style=social" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/AdityaDabgotra?label=Followers&style=social" />
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60" alt="Code Gif"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="60" alt="Rocket Gif"/>
+  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="60" alt="Security Gif"/>
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="60" alt="Dev Gif"/>
 </p>
 
 ---
@@ -62,7 +79,7 @@
 ## 🌱 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 📝 Learning MERN stack
+1. 📝 Learning penetration testing and cybersecurity tools
 2. 💻 Built scalable MERN stack web apps
 3. 🔢 Solved challenging DSA problems in C & C++
 4. 🏅 Participated and won coding competitions
@@ -93,3 +110,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 </p>
+
+<!--
+  Replace YOUR_TWITTER and your-portfolio.com with your actual social handle and portfolio!
+-->
