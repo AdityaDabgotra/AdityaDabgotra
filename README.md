@@ -15,7 +15,7 @@ graph LR
     A --> D[Database Systems];
     A --> E[Cyber Security];
     F[Learning Focus] --> G[Pen Testing];
-    F --> H[Cloud Security];
+    F --> H[Machine Learning];
     F --> I[Blockchain];
 ```
 ## ⚙️ Tech Stack & Tools
