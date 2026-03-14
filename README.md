@@ -51,25 +51,29 @@ $ cat profile.json
 ## ⚡ System Architecture
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00f0ff', 'edgeLabelBackground':'#0d1117', 'tertiaryColor': '#0d1117'}}}%%
-mindmap
-  root((Aditya))
-    💻 Core Skills
-      C/C++ & DSA
-      MERN Stack
-      Python
-    🔒 Security
-      Kali Linux
-      Penetration Testing
-      Wireshark / Metasploit
-    🤖 Learning
-      Machine Learning
-      Blockchain
-      AI/LLM Engineering
-    🛠️ DevOps
-      Docker
-      Linux
-      GitHub Actions
+graph TD
+    A(("🧑‍💻 Aditya")) --> B["💻 Core Skills"]
+    A --> C["🔒 Security"]
+    A --> D["🤖 Learning"]
+    A --> E["🛠️ DevOps"]
+
+    B --> B1["C / C++"]
+    B --> B2["DSA"]
+    B --> B3["MERN Stack"]
+    B --> B4["Python"]
+
+    C --> C1["Kali Linux"]
+    C --> C2["Penetration Testing"]
+    C --> C3["Wireshark"]
+    C --> C4["Metasploit"]
+
+    D --> D1["Machine Learning"]
+    D --> D2["Blockchain"]
+    D --> D3["AI / LLM Engineering"]
+
+    E --> E1["Docker"]
+    E --> E2["Linux"]
+    E --> E3["GitHub Actions"]
 ```
 
 ---
