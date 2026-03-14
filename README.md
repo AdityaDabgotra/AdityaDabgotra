@@ -1,102 +1,281 @@
-<h1 align="center">🚀 Hi, I'm Aditya Dabgotra</h1>
-<h3 align="center">⚡ Tech Enthusiast & DSA Specialist</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=26&duration=4000&pause=500&color=00F0FF&center=true&vCenter=true&width=500&lines=Data+Structures+%26+Algorithms+Expert;MERN+Stack+Architect;Cyber+Security+Researcher;Database+Systems+Specialist;Innovative+Problem+Solver" alt="Typing SVG" />
-</p>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║    ██████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗              ║
+║   ██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗             ║
+║   ███████║██║  ██║██║   ██║    ╚████╔╝ ███████║             ║
+║   ██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║             ║
+║   ██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║             ║
+║   ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝             ║
+║                                                               ║
+║              D A B G O T R A . T E C H                        ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=600&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E+Initializing+Aditya.exe...;%3E+Loading+DSA+modules...+%5BDONE%5D;%3E+MERN+Stack+online...+%5BDONE%5D;%3E+Firewall+activated...+%5BDONE%5D;%3E+Ready+to+build+the+future+%E2%9C%94" alt="Typing SVG" />
+
+<br/>
+
+[![Visits](https://komarev.com/ghpvc/?username=AdityaDabgotra&style=for-the-badge&color=00f0ff&label=PROFILE+VIEWS)](https://github.com/AdityaDabgotra)
+[![GitHub followers](https://img.shields.io/github/followers/AdityaDabgotra?style=for-the-badge&color=00f0ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/AdityaDabgotra)
+[![GitHub Stars](https://img.shields.io/github/stars/AdityaDabgotra?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/AdityaDabgotra)
+
+</div>
+
 ---
 
-## 🔮 Tech Profile
+<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+### `whoami`
+
+```bash
+$ cat profile.json
+{
+  "name"      : "Aditya Dabgotra",
+  "role"      : "Full Stack Dev & Security Researcher",
+  "location"  : "India 🇮🇳",
+  "focus"     : ["DSA", "MERN", "CyberSec", "AI"],
+  "currently" : "Breaking things to build better ones",
+  "motto"     : "Code. Break. Secure. Repeat.",
+  "coffee"    : true,
+  "open_to"   : "Collabs & Opportunities"
+}
+```
+
+<br clear="right"/>
+
+---
+
+## ⚡ System Architecture
 
 ```mermaid
-graph LR
-    A[Core Expertise] --> B[C/C++ DSA];
-    A --> C[MERN Stack];
-    A --> D[Database Systems];
-    A --> E[Cyber Security];
-    F[Learning Focus] --> G[Pen Testing];
-    F --> H[Machine Learning];
-    F --> I[Blockchain];
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00f0ff', 'edgeLabelBackground':'#0d1117', 'tertiaryColor': '#0d1117'}}}%%
+mindmap
+  root((Aditya))
+    💻 Core Skills
+      C/C++ & DSA
+      MERN Stack
+      Python
+    🔒 Security
+      Kali Linux
+      Penetration Testing
+      Wireshark / Metasploit
+    🤖 Learning
+      Machine Learning
+      Blockchain
+      AI/LLM Engineering
+    🛠️ DevOps
+      Docker
+      Linux
+      GitHub Actions
 ```
-## ⚙️ Tech Stack & Tools
-
-### 🧠 Core Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 🌐 Web Technologies
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-### 🔒 Security Tools
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-EF2D5E?style=for-the-badge)
-
-### 🛠️ DevOps & Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Analytics
+## 🛸 Tech Arsenal
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🧠 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td valign="top" width="33%">
+
+### 🌐 Web Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=flat-square&logo=redux&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🔒 Security
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-EF2D5E?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🛠️ DevOps
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+<td valign="top">
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+<td valign="top">
+
+### 🤖 AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 DSA War Record
+
+> *"Algorithms are my weapon of choice."*
 
 <div align="center">
-  <a href="https://github.com/AdityaDabgotra">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaDabgotra&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaDabgotra&theme=dark&hide_border=true" alt="GitHub Streak" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDabgotra&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  </a>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Grind+Mode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Competitive-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Problem+Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+
+</div>
+
+```
+🗡️  Arrays & Hashing       ████████████████████  MASTERED
+🗡️  Trees & Graphs         ███████████████░░░░░  ADVANCED
+🗡️  Dynamic Programming    ██████████████░░░░░░  ADVANCED
+🗡️  Linked Lists           ████████████████████  MASTERED
+🗡️  Bit Manipulation       █████████████░░░░░░░  ADVANCED
+🗡️  System Design          ████████░░░░░░░░░░░░  IN PROGRESS
+```
+
+---
+
+## 🚀 Active Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 AI YouTube Notes Maker
+> Paste a YouTube URL → Get clean notes & bullet points in seconds
+
+**Stack:** Python · OpenAI API · React  
+**Status:** `🟢 Active`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AdityaDabgotra/)
+
+</td>
+<td width="50%">
+
+### ♟️ AI Chess Engine
+> Battle against Stockfish in a sleek browser-based chess board
+
+**Stack:** JavaScript · Stockfish · Chess.js  
+**Status:** `🟢 Active`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AdityaDabgotra/Chess_Ai)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 E-Commerce MERN Platform
+> Full-featured store with auth, cart, payments & admin panel
+
+**Stack:** MongoDB · Express · React · Node  
+**Status:** `🟡 Building`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AdityaDabgotra/)
+
+</td>
+<td width="50%">
+
+### 🔒 Cyber Security Lab *(WIP)*
+> Personal CTF writeups, pentest notes & exploit scripts
+
+**Stack:** Python · Kali · Metasploit  
+**Status:** `🔵 Research Phase`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AdityaDabgotra/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Command Center
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaDabgotra&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00f0ff&icon_color=00f0ff" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaDabgotra&theme=github-dark-blue&hide_border=true&ring=00f0ff&fire=ff4500&currStreakLabel=00f0ff" />
+</div>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDabgotra&theme=github_dark&hide_border=true&layout=compact&langs_count=8&title_color=00f0ff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaDabgotra&theme=github-compact&hide_border=true&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff" />
 </div>
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <a href="https://github.com/AdityaDabgotra">
-    <img src="https://github-profile-trophy.vercel.app/?username=AdityaDabgotra&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
+## 🏆 Hall of Fame
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaDabgotra&theme=github_dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaDabgotra&theme=onestar&column=7&no-frame=true&margin-w=10" />
 </div>
 
 ---
 
-## ✨ Active Projects
+## 📡 Currently Hacking On
 
-- 🧠 **[AI powered Youtube Video Notes Maker](https://github.com/AdityaDabgotra/)** - Get Short Notes and Bullet Points for a Youtbe Video
-- 🌐 **[E-Commerce MERN Platform](https://github.com/AdityaDabgotra/)** - Full-featured shopping system
-- 🧠 **[AI Chess Game](https://github.com/AdityaDabgotra/Chess_Ai)** - Interactive Chess Game to battle against Stockfish
-
----
-
-## 🌌 Connect With Me
-
-<p align="center">
-  <a href="mailto:adityadabgotra2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-dabgotra-279a0a162">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YourTwitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://adityadabgotra.tech">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
-</p>
+```javascript
+const aditya = {
+  currentlyLearning : ["Penetration Testing", "LLM Engineering", "Blockchain Dev"],
+  building          : ["AI Tools", "Security Scripts", "Full Stack Apps"],
+  reading           : ["The Web Application Hacker's Handbook", "CLRS Algorithms"],
+  funFact           : "I debug with console.log and I'm not ashamed.",
+  availableFor      : "Open source collabs, freelance, & full-time roles 🚀"
+};
+```
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-</p>
+## 🌌 Connect & Collaborate
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadabgotra2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-dabgotra-279a0a162)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://adityadabgotra.tech)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════╗
+║  "First, solve the problem.              ║
+║   Then, write the code."                 ║
+║                        — John Johnson    ║
+╚══════════════════════════════════════════╝
+```
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:0d1117&height=120&section=footer)
+
+</div>
