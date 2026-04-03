@@ -169,37 +169,37 @@ graph TD
 <tr>
 <td width="50%">
 
-### 🧠 AI YouTube Notes Maker
-> Paste a YouTube URL → Get clean notes & bullet points in seconds
+### 🧠 Notes Summariser (YouTube)
+> Turn lectures into study notes: captions → Gemini summaries, flashcards, quizzes—saved per user
 
-**Stack:** Python · OpenAI API · React  
+**Stack:** React · Node.js · Gemini API  
 **Status:** `🟢 Active`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AdityaDabgotra/)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AdityaDabgotra/Notes_summariser)
 
 </td>
 <td width="50%">
 
-### ♟️ AI Chess Engine
-> Battle against Stockfish in a sleek browser-based chess board
+### 🤝 DevCollab
+> Where developers meet projects—discover, apply, and build together
 
-**Stack:** JavaScript · Stockfish · Chess.js  
+**Stack:** TypeScript · Full stack · Vercel  
 **Status:** `🟢 Active`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AdityaDabgotra/Chess_Ai)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AdityaDabgotra/DevCollab)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🛒 E-Commerce MERN Platform
-> Full-featured store with auth, cart, payments & admin panel
+### 🚗 Car Damage Analyser
+> CV maps body regions from damage clips; an LLM outputs insurer-ready repair vs replace recommendations
 
-**Stack:** MongoDB · Express · React · Node  
-**Status:** `🟡 Building`
+**Stack:** TypeScript · Computer Vision · LLM  
+**Status:** `🟢 Active`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AdityaDabgotra/)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AdityaDabgotra/Car_Damage_Analyser)
 
 </td>
 <td width="50%">
@@ -261,8 +261,8 @@ const aditya = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadabgotra2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-dabgotra-279a0a162)
+[![Email](https://img.shields.io/badge/Email-adityadabgotra2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadabgotra2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-dabgotra-279a0a162)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitter)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://adityadabgotra.tech)
 
