@@ -266,7 +266,7 @@ const aditya = {
 [![Email](https://img.shields.io/badge/Email-adityadabgotra2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadabgotra2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-dabgotra-279a0a162)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://adityadabgotra.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://adityadabgotratech.vercel.app/)
 
 </div>
 
